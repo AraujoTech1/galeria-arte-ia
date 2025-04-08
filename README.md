@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="https://img.shields.io/badge/🎨-FF1493?style=flat" alt="pincel" height="28">
-    <img src="https://img.shields.io/badge/GALERIA%20DE%20ARTE%20DEIA-FF1493?style=flat&logoColor=white" alt="Galeria de Arte de de IA" height="28">
+    <img src="https://img.shields.io/badge/GALERIA%20DE%20ARTE%20DE IA-FF1493?style=flat&logoColor=white" alt="Galeria de Arte de de IA" height="28">
     <img src="https://img.shields.io/badge/🎨-FF1493?style=flat" alt="pincel" height="28">
   </h1>
   <p>
