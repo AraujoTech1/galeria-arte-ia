@@ -20,13 +20,13 @@ A **Galeria de Arte de IA** é uma aplicação web simples e visualmente envolve
 - Código leve e sem dependência de backend, ideal para estudo de front-end visual.
 
 ## Testes de Software
-- **Teste de Depuração:**
+[x] **Teste de Depuração:**
   - HTML, CSS e JS validados diretamente no navegador e no VSCode.
   - Console inspecionado para garantir ausência de erros.
-- **Teste de Funcionamento:**
+[x] **Teste de Funcionamento:**
   - Verificado o comportamento responsivo da galeria e a fluidez da animação do fundo.
   - Inspecionadas interações de hover e carregamento das imagens, garantindo acessibilidade e desempenho fluido.
-- **Captura do Teste Realizado:**
+[x] **Captura do Teste Realizado:**
 
 <img src="./imagens/imagemteste.png" alt="Captura da tela" width="600px">
 
